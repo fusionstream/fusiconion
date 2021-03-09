@@ -4,7 +4,7 @@ I put this together so we'd have a common and recognisable set of icons across a
 
 The designs are intentionally done to make it easy to spot at a glance.
 
-###**How to use**
+### **How to use**
 By default, all generated icon files are available in the <mark>*Generated*</mark> folder which is a folder of shortcuts to the various <mark>*Generatives/theIconSetYouWant/theIconSetYouWant-assets/*</mark> folders.
 
 If you want to make changes or regenerate an iconset:
